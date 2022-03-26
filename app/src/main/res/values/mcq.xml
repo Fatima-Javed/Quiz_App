@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="mcq">
+      <item>Android is:</item>
+      <item>Under which of the following Android is licensed?</item>
+      <item>For which of the following Android is mainly developed?</item>
+      <item>APK stands for:</item>
+      <item>What does API stand for:</item>
+      <item>How can we stop the services in android?</item>
+      <item>What is an activity in android?</item>
+      <item>How can we kill an activity in android?</item>
+      <item>ADB stands for:</item>
+      <item>Which of the kernel is used in Android?</item>
+  </string-array>
+
+    <string-array name="opt1">
+        <item>an operating system</item>
+        <item>OSS</item>
+        <item>Servers</item>
+        <item>Android Package Kit</item>
+        <item>Application Programming Interface</item>
+        <item>By using the stopSelf() and stopService()</item>
+        <item>Android class</item>
+        <item>Using finish()</item>
+        <item>Android debug bridge</item>
+        <item>MAC</item>
+    </string-array>
+
+    <string-array name="opt2">
+        <item>a web browser</item>
+        <item>Sourceforge</item>
+        <item>Desktops</item>
+        <item>Android Phone Kit</item>
+        <item>Android Programming Interface</item>
+        <item>By using the finish()</item>
+        <item>A single screen in an application with java code</item>
+        <item>Using finishActivity(int request code)</item>
+        <item>Android delete bridge</item>
+        <item>Windows</item>
+    </string-array>
+
+
+    <string-array name="opt3">
+        <item>a web server</item>
+        <item>Apache/MIT</item>
+        <item>Mobiles devices</item>
+        <item>Android Page Kit</item>
+        <item>Android Page Interface</item>
+        <item>By using system.exit()</item>
+        <item>Android package</item>
+        <item>Both (a) and (b)</item>
+        <item>Android destroy bridge</item>
+        <item>Linux</item>
+    </string-array>
+
+
+    <string-array name="solution">
+        <item>an operating system</item>
+        <item>Apache/MIT</item>
+        <item>Mobile devices</item>
+        <item>Android Package Kit</item>
+        <item>Android Programming Interface</item>
+        <item>By using the stpSelf() and stopService()</item>
+        <item>A single screen in an application with java code</item>
+        <item>Both (a) and (b)</item>
+        <item>Android debug bridge</item>
+        <item>Linux</item>
+    </string-array>
+</resources>

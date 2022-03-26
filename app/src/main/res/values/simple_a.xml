@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="simple_a">
+        <item>Android is mobile operating system developed by Google, based on a modified version of the linux kernel.
+        It was initially developed by Android Inc. which google bought in 2005, Android was unveiled in 2007,with the
+        first commercial Android device launched in September 2008.</item>
+        <item>Linux
+        Android is based onLinux 3.6 version.</item>
+        <item>Services Used to perform background functionalities.
+          Intent Used to perform the inter connection between activities and the data passing mechanism.
+          Content provider use to share the data between application.
+        </item>
+        <item>JAVA
+        Top two layers(application and framework layers are written in JAVA. Where as drivers and library layer are written
+            in C and C++.</item>
+        <item>Android Debug Bridges.It is acts as bridge between emulator and IDE.</item>
+        <item>Foreground
+            Background
+            Intermittent
+            Widget</item>
+        <item>The container holds objects,widgets,labels,fields,icons,button.etc.</item>
+        <item>A service is an application component that can perform long running operations in the background.</item>
+        <item>Intent can be used with startActivity to launch an Activity. It is connected to either the external world
+        of application or intent world of application.</item>
+        <item>Playing frame after frame using animation-list xml property is called as frame animation.</item>
+
+
+
+
+
+
+
+
+
+
+    </string-array>
+
+
+
+
+
+
+
+</resources>

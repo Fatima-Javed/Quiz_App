@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tr_false">
+        <item>Android is an open-source operating system:</item>
+        <item>Android developers require some tools and this requirement is satisfied by “Android SDK”:</item>
+        <item>Java is not the widely used language for Android development:</item>
+        <item>Using Linux kernel, Android provides a connection between the other layers of the software:</item>
+        <item>HAL does not provides an interface between device drivers and API framework:</item>
+        <item>Manifest contains an XML file:</item>
+        <item>Android has an Intent class when the user has to navigate from one activity to another:</item>
+        <item>Implicit Intent invoke the Activity class:</item>
+        <item>Explicit Intents calls the system components:</item>
+        <item>ANR stands for Application Not Responding:</item>
+
+    </string-array>
+
+    <string-array name="solutions">
+        <item>True</item>
+        <item>True</item>
+        <item>False</item>
+        <item>True</item>
+        <item>False</item>
+        <item>True</item>
+        <item>True</item>
+        <item>False</item>
+        <item>False</item>
+        <item>True</item>
+
+</string-array>
+
+</resources>

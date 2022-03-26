@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="simple_q">
+        <item>What is Android?</item>
+        <item>Which kernel is used in Android?</item>
+        <item>What is the Android Architecture?</item>
+        <item>The Android framework is written in which language?</item>
+        <item>What is ADB?</item>
+        <item>What are types of Android Application?</item>
+        <item>What is container in Android?</item>
+        <item>What is a Service in android?</item>
+        <item>What is an intent?</item>
+        <item>What is frame animation in android?</item>
+
+
+
+
+
+    </string-array>
+
+
+
+
+
+
+</resources>
